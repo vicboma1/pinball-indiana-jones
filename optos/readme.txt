@@ -21,3 +21,24 @@ A-17981-AI (1) 7 opto trough pcb
 5043-08980-00 (2) capacitor 0.01m 50v +80-20 axial
 5070-09054-00 (9) diode-1N4004 1.0a
 5768-13659-02 (1) pcb-7 ball trough opto
+
+------------
+
+OPTO BOARD - EMITTER 7 LED
+
+#A-17982
+7 ball trough LED PCB assembly.
+
+Contains 5-pin connector, infra-red diodes, resistors, and LED display.
+
+Reference:
+
+A-17982 / A-16927 transmitter
+A-17981 / A-16926 receiver
+5768-13660-00
+5768-13660-01
+5010-12928-00 (7) resistor 270 ohm 2W 5%
+5671-12731-00 (7) LED diode infra red
+5671-13732-00 (1) LED display red
+5791-12622-05 (1) 5h r/a lck hdr .100 solid tab
+A-17982-AI 7 led trough pcb
