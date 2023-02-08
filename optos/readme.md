@@ -1,4 +1,6 @@
-OPTO BOARD - RECEIVER 7
+### OPTO BOARD
+```
+RECEIVER 7
 
 #A-17981
 7 opto ball trough receiver board.
@@ -24,7 +26,7 @@ A-17981-AI (1) 7 opto trough pcb
 
 ------------
 
-OPTO BOARD - EMITTER 7 LED
+EMITTER 7 LED
 
 #A-17982
 7 ball trough LED PCB assembly.
@@ -42,3 +44,4 @@ A-17981 / A-16926 receiver
 5671-13732-00 (1) LED display red
 5791-12622-05 (1) 5h r/a lck hdr .100 solid tab
 A-17982-AI 7 led trough pcb
+```
